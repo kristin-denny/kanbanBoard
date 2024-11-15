@@ -18,7 +18,7 @@ Installation is not necessary, simply follow the url provided below.
 
 ## Usage
 
-To use, go to: https://kanbanboard-4p1r.onrender.com
+To use, go to: https://kanbanboard-4p1r.onrender.com and use username: JollyGuru and password: password
 
 
 
